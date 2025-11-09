@@ -12,3 +12,8 @@ venv*/
 # OS
 .DS_Store
 robot_upload.py
+
+# Ignore local setup folders
+aws/
+awscliv2.zip
+repo.git/
