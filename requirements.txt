@@ -1,1 +1,16 @@
-
+boto3==1.40.69
+botocore==1.40.69
+cffi==2.0.0
+cryptography==46.0.3
+iniconfig==2.3.0
+jmespath==1.0.1
+packaging==25.0
+paho-mqtt==2.1.0
+pluggy==1.6.0
+pycparser==2.23
+Pygments==2.19.2
+pytest==9.0.0
+python-dateutil==2.9.0.post0
+s3transfer==0.14.0
+six==1.17.0
+urllib3==2.5.0
